@@ -1,0 +1,29 @@
+.container{
+    .row{
+        .dropzone{
+            .zone{
+                list-style: none;
+                border:7px solid rgb(6, 1, 1);
+                border-radius: 48%;
+                margin: 0px 130px;
+                padding: 25%;
+            }
+        
+        }
+        .droplist{
+          
+            ul{
+                
+                display: flex;
+                justify-content: space-evenly;
+                li{
+                    margin-top: 70px;
+                    list-style: none;
+                   border: 7px solid rgb(27, 25, 25);
+                   border-radius: 50%;
+                   padding: 65px 65px;
+                }
+            }
+        }
+    }
+}
